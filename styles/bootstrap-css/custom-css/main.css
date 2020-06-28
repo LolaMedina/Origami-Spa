@@ -1,0 +1,34 @@
+
+.custom-container {
+    max-width: 1440px;
+    margin: 0 auto;
+     /* padding: 1rem; */
+} 
+
+.header, .footer, .card{
+    background-color: black;
+}
+
+.navbar-brand{
+    font-family: 'Belleza', sans-serif;
+}
+
+.checkout-btn, .navigation, .send-msg-btn{
+    background-color: #D99D5C;
+}
+
+.nav-item, li{
+    list-style-type: none;
+}
+
+.footer-heading{
+    color:  #D99D5C;
+}
+
+.contact-border{
+    border: 1px solid #D99D5C ;
+}
+
+hr{
+    border-bottom: 3px solid white;
+}
